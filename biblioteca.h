@@ -1,4 +1,9 @@
-// biblioteca.h
+/***********************************************************
+Nombre: Daniel Galvis
+Materia: Sistemas Operativos
+Tema: OpenMP
+Descripcion: Uso de directivas basicas basadas en OPenMP para hacer concurrencias y aprovechas el paralelimos con hilos de ejecuciion
+************************************************************/
 #ifndef BIBLIOTECA_H
 #define BIBLIOTECA_H
 
