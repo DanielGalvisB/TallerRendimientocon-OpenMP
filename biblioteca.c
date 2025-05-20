@@ -1,4 +1,9 @@
-// biblioteca.c
+/***********************************************************
+Nombre: Daniel Galvis
+Materia: Sistemas Operativos
+Tema: OpenMP
+Descripcion: Uso de directivas basicas basadas en OPenMP para hacer concurrencias y aprovechas el paralelimos con hilos de ejecuciion
+************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
